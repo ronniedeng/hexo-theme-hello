@@ -1,6 +1,6 @@
 # Site Information
-description: "记录成长，分享生活与技术的点滴"
-keywords: "江岳勋, 江岳勋的博客, Ahonn, Ahonn's Blog, 前端，博客"
+description: "邓小龙博客，致力于简单可靠的lnmp架构"
+keywords: "邓小龙,lnmp,php,mysql,linux,nginx"
 favicon: images/favicon.ico
 rss: /atom.xml
 
@@ -9,10 +9,7 @@ rss: /atom.xml
 menu:
   home: /
   # 技术: categories/technology/ 
-  思考: categories/thinking/
-  生活: categories/life/
-  archives: archives/
-  about: about/
+  技术: categories/tech/
 
 # Site Sidebar Widget
 widgets:
@@ -24,18 +21,22 @@ widgets:
 
 # Site Friend Links
 links:
-  yzzting: http://www.yzz1995.cn/
-  co1mugx: http://blog.co1mugx.tk/
-  leyar: https://www.ileyar.com/
+  wiki: https://wiki.huimang.com/
+  吴钧泽博客: https://wujunze.com/
 
 analytics:
-  google: UA-74273646-1
-  baidu: 0a275bcf7d954b807e1db498d8e5b192
+  baidu: aaa
+  #baidu: 0a275bcf7d954b807e1db498d8e5b192
 
 # Site Verification
 verification:
-  baidu: 0a275bcf7d954b807e1db498d8e5b192
-  google: j5dWC85DkoAfUR50W00ewfii3X9ouH55HnyBP6oZxGE
+  baidu: sdfd
+  #baidu: 0a275bcf7d954b807e1db498d8e5b192
+  #google: j5dWC85DkoAfUR50W00ewfii3X9ouH55HnyBP6oZxGE
 
 comment:
-  disqus: ahonn
+  #disqus: dengxiaolong
+  #uyan: 1507133
+  gentie:
+    key: e56d3daef8d44c66a2e059aea3250e3a
+    token: aHR0cHM6Ly9hcGkuZ2VudGllLjE2My5jb20vcGMvbGl2ZXNjcmlwdC5odG1s
